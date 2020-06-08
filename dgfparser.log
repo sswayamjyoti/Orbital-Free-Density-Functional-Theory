@@ -1,0 +1,17 @@
+DGF parser started
+Step 1 finished: 
+                 3d
+                 0 verticies
+                 0 elements
+Automatic grid generation
+Using SIMPLEXGENERATOR block
+Calling : tetgen   grids/grid10.node
+Automatic grid generation finished
+Using BOUNDARYDOMAIN block
+Step 2 finished: 
+                 0 bnd-segs read in BoundarySegment block
+                 48 bnd-segs in grid
+                 0 bnd-segs in a boundary domain
+                 48 bnd-seg assigned default value
+                 0 bnd-segs have not been assigned an id!
+Sucsessful
